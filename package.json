@@ -11,5 +11,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+  "description": "A project to learn npm package.json",
+  "keywords": ["freecodecamp", "npm", "package.json", "node"],
+  "license": "MIT",
+  "version": "1.2.3"
 }
